@@ -1,0 +1,19 @@
+[
+  {"id": 0, "color": "ffffff", "name": "white"},
+  {"id": 1, "color": "000000", "name": "black"},
+  {"id": 2, "color": "ff0000", "name": "red"},
+  {"id": 4, "color": "ff00ff", "name": "not green"},
+  {"id": 5, "color": "0000ff", "name": "blue"},
+  {"id": 6, "color": "00ff00", "name": "green"},
+  {"id": 9, "color": "00ffff", "name": "not red"},
+  {"id": 20, "color": "ffff00", "name": "not blue"},
+  {"id": 22, "color": "777777", "name": "gray?"},
+  {"id": 10, "color": "777700", "name": "something"},
+  {"id": 13, "color": "007777", "name": "another"},
+  {"id": 123, "color": "770000", "name": "whatever"},
+  {"id": 44, "color": "77007g", "name": null},
+  {"id": 124, "color": "000077"},
+  {"id": 8, "color": "007700", "name": "yes"},
+  {"id": 1337, "color": null, "name": "no"},
+  {"id": 2313213, "color": "59BCE5", "name": "timely"}
+]
